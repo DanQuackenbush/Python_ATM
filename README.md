@@ -30,8 +30,6 @@ The ATM program demonstrates the use of:
 ---
 
 ## How to Run
-Place all dowloads in the same folder and navigate to that folder via windows command prompt
+-Place all dowloads in the same folder and navigate to that folder via windows command prompt
 use command: python atm.py
 
-2. **Download the project files**  
-   Place these files in the same folder:
